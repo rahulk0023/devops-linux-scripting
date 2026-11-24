@@ -124,7 +124,7 @@ Total Requests : 20
 TOP 3 IP ADDRESSES BY REQUEST COUNT:
 --------------------------------------------
   192.168.1.10         7 requests
-  192.168.1.22         6 requests
+  192.168.1.22         5 requests
   10.0.0.5             5 requests
 
 ============================================
